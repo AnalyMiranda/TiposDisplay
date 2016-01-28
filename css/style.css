@@ -1,8 +1,12 @@
+h1 {
+	font-family: Courier;
+	color: #4454F0;
+}
 div {
 	font-family: Arial;
-	height: 100px;
-	width: 400px;
-	font-size: 40px;
+	height: 80px;
+	width: 18%;
+	margin-bottom: 1%;
 }
 .yellow {
 	background-color: yellow;
@@ -11,11 +15,11 @@ div {
 	background-color: red;
 }
 .pdl5 {
-	padding-left: 5px;
+	padding-left: 5%;
 }
 .pdt5{
-	padding-top: 5px;
+	padding-top: 1%;
 }
 p {
-	padding-left: 15px;
+	padding-left: 5%;
 }
