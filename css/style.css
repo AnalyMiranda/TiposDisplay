@@ -1,0 +1,21 @@
+div {
+	font-family: Arial;
+	height: 100px;
+	width: 400px;
+	font-size: 40px;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
+.pdl5 {
+	padding-left: 5px;
+}
+.pdt5{
+	padding-top: 5px;
+}
+p {
+	padding-left: 15px;
+}
